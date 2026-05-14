@@ -70,10 +70,10 @@ Analyzing which bulldozer characteristics (e.g., `YearMade`, `ProductSize`, `fiS
 
 ## Results & Conclusion
 
-The final model is evaluated on the validation set. By tuning hyperparameters and performing feature engineering, the model achieves a competitive RMSLE score, demonstrating the effectiveness of Random Forest for structured tabular data.
+The final model is evaluated on the validation set. By tuning hyperparameters and performing feature engineering, the model achieves a competitive RMSLE score of `0.24654`, demonstrating the effectiveness of Random Forest for structured tabular data.
 
 ### How to use this repository:
 
 1. Clone the repository.
-2. Install dependencies: `pip install pandas numpy matplotlib scikit-learn`.
+2. Install dependencies: `pip install requirements.txt`.
 3. Open the `end-to-end-bulldozer-price-prediction.ipynb` notebook and run the cells.
