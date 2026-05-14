@@ -1,8 +1,8 @@
-# 🚜 Bulldozer Price Prediction
+# Bulldozer Price Prediction
 
 This project is an end-to-end Machine Learning regression task aimed at predicting the sale price of bulldozers based on historical data. The dataset and problem are sourced from the **Kaggle Bluebook for Bulldozers** competition.
 
-## 📌 Project Overview
+## Project Overview
 
 The goal of this project is to build a machine learning model that can predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for.
 
@@ -24,7 +24,7 @@ The evaluation metric for this competition is the **RMSLE (Root Mean Squared Log
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 The project uses the following Python libraries:
 
@@ -39,7 +39,7 @@ The project uses the following Python libraries:
 
 ---
 
-## 🚀 Project Workflow
+## Project Workflow
 
 ### 1. Data Preprocessing & EDA
 
@@ -68,7 +68,7 @@ Analyzing which bulldozer characteristics (e.g., `YearMade`, `ProductSize`, `fiS
 
 ---
 
-## 📊 Results & Conclusion
+## Results & Conclusion
 
 The final model is evaluated on the validation set. By tuning hyperparameters and performing feature engineering, the model achieves a competitive RMSLE score, demonstrating the effectiveness of Random Forest for structured tabular data.
 
